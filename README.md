@@ -1,22 +1,34 @@
-# Nombre del juego (<- borrar y completar)
+# Universe Battle
 
-## Equipo de desarrollo
+## Equipo de Desarrollo: PdePelados
 
-- Alguien
-- Persona
-- etc.
+- Nicolás Ariel Molina
+- Juan Ignacio Bencardino
+- Agustín Neustadt
+- Juan Furlan
 
-## Capturas
+## Capturas del Videojuego
 
-(agregar)
+<img src="assets/presentacion/foto1.png" alt = "Presentación del Juego">
+<img src="assets/presentacion/foto2.png" alt = "Ilustración del juego">
+<img src="assets/presentacion/foto3.png" alt = "Ilustración del juego">
+<img src="assets/presentacion/foto4.png" alt = "Ilustración del juego">
 
-## Reglas de Juego / Instrucciones
+## Reglas del Juego / Instrucciones
 
-(Escribirlas)
+### Objetivo
+Eliminar a todos los enemigos que aparezcan en el radar y evitar recibir sus disparos.
+
+### Controles
+#### Movimiento
+- Flecha Derecha: La nave se mueve hacia la derecha.
+- Flecha Izquierda: La nave se mueve hacia la izquierda.
+- Espacio: La nave ejecuta un disparo.
 
 
 ## Otros
 
-- Curso/Facultad
-- Versión de wollok
-- Una vez terminado, no tenemos problemas en que el repositorio sea público / queremos manternerlo privado
+- Facultad: UTN Regional Buenos Aires
+- Curso: K2005
+- Versión de Wollok: 3.0.0
+- Una vez terminado, no tenemos problemas en que el repositorio sea público.
